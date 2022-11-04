@@ -1,6 +1,9 @@
 body{
-    background-color: red;
+    background-color: #db187d;
 }
 h1{
     font-style: italic;
+}
+p{
+    font-size:large
 }
